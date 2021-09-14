@@ -41,3 +41,9 @@
 <div align="center">
   <img src="https://telegra.ph/file/fa6cd134c236f17976be7.jpg" width="800" height="200">
   <h1>දැන් මෙතන ක්ලික් කරන්න.</h1>
+
+## 8
+<div align="center">
+  <img src="https://telegra.ph/file/4790f8f915311832d9276.jpg" width="800" height="200">
+  <h1>දැන් මේ ලින්ක් එක copy කරගන්න.</h1>
+
