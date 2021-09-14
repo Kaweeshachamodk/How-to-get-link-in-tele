@@ -36,3 +36,8 @@
 <div align="center">
   <img src="https://telegra.ph/file/4d86c5bf51f7cdcfad580.jpg" width="500" height="500">
   <h1>  </h1>
+
+## 7
+<div align="center">
+  <img src="https://telegra.ph/file/fa6cd134c236f17976be7.jpg" width="800" height="200">
+  <h1>දැන් මෙතන ක්ලික් කරන්න.</h1>
