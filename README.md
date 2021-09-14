@@ -19,7 +19,7 @@
 
 ## 3
 <div align="center">
-  <img src="https://telegra.ph/file/eccedb13990b89a6799d3.jpg" width="800" height="200">
+  <img src="https://telegra.ph/file/eccedb13990b89a6799d3.jpg" width="800" height="100">
   <h1>  </h1>
 
 
