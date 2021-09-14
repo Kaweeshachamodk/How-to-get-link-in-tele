@@ -29,5 +29,5 @@
 
 ## 4
 <div align="center">
-  <img src="https://telegra.ph/file/d0c0a89d7758c6183a946.jpg" width="200" height="600">
+  <img src="https://telegra.ph/file/d0c0a89d7758c6183a946.jpg" width="800" height="200">
   <h1>  </h1>
